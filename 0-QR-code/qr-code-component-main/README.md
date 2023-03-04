@@ -20,7 +20,7 @@
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: https://github.com/AanuTT/Frontend-mentor/blob/main/0-QR-code/qr-code-component-main/style.css
 - Live Site URL: https://frontend-mentor-azure.vercel.app/
 
 
